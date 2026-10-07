@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "worldZsmp.aternos.me",
-    "port": 62232,
+    "ip": "play.cloudcastle.online",
+    "port": 19137,
     "version": "1.21.11"
   },
   "position": {
